@@ -1,0 +1,6 @@
+cabal.sandbox.config
+.cabal-sandbox
+build/
+*.hi
+*.o
+*.out
